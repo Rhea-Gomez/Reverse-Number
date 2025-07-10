@@ -1,0 +1,14 @@
+D:\Training\Assignments\ReverseNumber\ReverseNumber\bin\Debug\net8.0\ReverseNumber.exe
+D:\Training\Assignments\ReverseNumber\ReverseNumber\bin\Debug\net8.0\ReverseNumber.deps.json
+D:\Training\Assignments\ReverseNumber\ReverseNumber\bin\Debug\net8.0\ReverseNumber.runtimeconfig.json
+D:\Training\Assignments\ReverseNumber\ReverseNumber\bin\Debug\net8.0\ReverseNumber.dll
+D:\Training\Assignments\ReverseNumber\ReverseNumber\bin\Debug\net8.0\ReverseNumber.pdb
+D:\Training\Assignments\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.AssemblyInfoInputs.cache
+D:\Training\Assignments\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.AssemblyInfo.cs
+D:\Training\Assignments\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.dll
+D:\Training\Assignments\ReverseNumber\ReverseNumber\obj\Debug\net8.0\refint\ReverseNumber.dll
+D:\Training\Assignments\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.pdb
+D:\Training\Assignments\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ReverseNumber.genruntimeconfig.cache
+D:\Training\Assignments\ReverseNumber\ReverseNumber\obj\Debug\net8.0\ref\ReverseNumber.dll
